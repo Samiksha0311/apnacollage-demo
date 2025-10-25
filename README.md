@@ -2,4 +2,4 @@
 This is my repo
 
 <br>
-Author samiksha gawande
+Author samiksha (Apna college)
