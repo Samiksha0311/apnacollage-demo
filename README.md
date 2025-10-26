@@ -1,5 +1,5 @@
 # apnacollage-demo
-This is my repo
+This is my repository
 
 <br>
 Author samiksha (Apna college)
